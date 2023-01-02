@@ -149,6 +149,12 @@ p{
     background-color: rgb(215, 227, 228);
     padding: 2% 12%;
 }
+.pricing-head{
+    font-size: 2.5rem;
+    line-height: 1;
+    text-align: center;
+    margin: 15px;
+}
 .btn-price{
     border-radius: 15px;
     background-color: rgb(255, 255, 255);
