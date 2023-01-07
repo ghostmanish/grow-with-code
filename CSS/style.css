@@ -255,9 +255,9 @@ p{
 }
 .footer-logo{
     width: 40%;
-    display: inline-block;
+    display: block;
     padding-bottom: 10px;
-    margin-left:20%;
+    margin-left:auto%;
     margin-right:auto;
     
 }
